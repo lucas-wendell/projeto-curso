@@ -1,6 +1,6 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`<GridContent/> should render be undefined 1`] = `
+exports[`<GridContent/> > should render be undefined 1`] = `
 .c2 {
   text-align: center;
   max-width: 58rem;
@@ -154,7 +154,7 @@ exports[`<GridContent/> should render be undefined 1`] = `
 </div>
 `;
 
-exports[`<GridContent/> should render grid content 1`] = `
+exports[`<GridContent/> > should render grid content 1`] = `
 .c2 {
   text-align: center;
   max-width: 58rem;

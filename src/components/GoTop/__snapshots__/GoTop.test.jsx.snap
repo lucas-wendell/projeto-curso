@@ -1,6 +1,6 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`<GoTop/> should render a go to top button 1`] = `
+exports[`<GoTop/> > should render a go to top button 1`] = `
 .c0 {
   position: fixed;
   bottom: 2rem;

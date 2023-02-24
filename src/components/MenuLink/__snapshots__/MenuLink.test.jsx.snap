@@ -1,6 +1,6 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`<MenuLink/> should render open in a new tab 1`] = `
+exports[`<MenuLink/> > should render open in a new tab 1`] = `
 .c0 {
   display: block;
   -webkit-text-decoration: none;

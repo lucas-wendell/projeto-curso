@@ -1,6 +1,6 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Vitest Snapshot v1
 
-exports[`<TextComponent/> should match snapshot 1`] = `
+exports[`<TextComponent/> > should match snapshot 1`] = `
 .c0 {
   font-size: 2.4rem;
 }
