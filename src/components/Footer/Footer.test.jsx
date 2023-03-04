@@ -4,7 +4,9 @@ import { Footer } from '.';
 
 describe('<Footer/>', () => {
   it('should render', () => {
-    const { container } = renderTheme(<Footer html={'<html>ola</html>'} />);
+    const { container } = renderTheme(
+      <Footer footerHtml={'<html>ola</html>'} />,
+    );
     expect(container).toMatchSnapshot();
   });
 });

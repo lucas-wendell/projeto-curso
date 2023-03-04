@@ -1,5 +1,4 @@
-// const { mergeConfig } = require('vite');
-import { mergeConfig } from "vite";
+const { mergeConfig } = require('vite');
 
 module.exports = {
   stories: [
@@ -24,3 +23,4 @@ module.exports = {
     });
   },
 };
+
